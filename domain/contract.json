@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "product": "非遗作品授权谱系",
+  "source_context": "http://edu.people.com.cn/n1/2026/0924/c1006-40804947.html",
+  "actors": [
+    "学生创作者",
+    "监护人",
+    "学校宣传人员"
+  ],
+  "states": [
+    "登记",
+    "授权",
+    "引用",
+    "发布",
+    "撤回"
+  ],
+  "invariants": [
+    "用途授权",
+    "作品谱系",
+    "共同作者",
+    "撤回传播"
+  ],
+  "sample_cases": [
+    {
+      "case_id": "09302-011-A",
+      "actor": "学生创作者",
+      "state": "登记"
+    },
+    {
+      "case_id": "09302-011-B",
+      "actor": "学校宣传人员",
+      "state": "授权"
+    }
+  ],
+  "tags": [
+    "artwork-rights",
+    "provenance-graph"
+  ]
+}
